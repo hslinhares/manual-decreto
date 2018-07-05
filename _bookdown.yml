@@ -1,0 +1,5 @@
+book_filename: "Manual do Decreto Orçamentário"
+chapter_name: "Capítulo "
+repo: https://github.com/maurofidelis/manual-decreto
+output_dir: "docs"
+

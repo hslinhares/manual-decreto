@@ -1,7 +1,7 @@
 ---
 title: "Manual Decreto Orçamentário"
 author: "Diretoria Central de Monitoramento da Execução Física e Orçamnetária"
-date: "4 de julho de 2018"
+date: "Última atualização: 4 de julho de 2018"
 output: bookdown::gitbook
 site: bookdown::bookdown_site
 ---
@@ -11,20 +11,23 @@ site: bookdown::bookdown_site
 O presente manual visa fornecer passo a passo do processo de confecção de um decreto para abertura de créditos adicionais.
 
 ## Introdução
-Existe alguns casos que Lei Orçamentária Anual (LOA), durante seu exercício financeiro, necessita de recursos que não foram previstos na sua elaboração. Nesse contexto, o Poder Executivo pode realizar remanejamentos, transposições e créditos adicionais, conforme definido no Art. 40 da Lei Federal 4320/64 que, segundo o caput, *“Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal”.*
+Durante o exercício financeiro podem surgir necessidades não previstas na época de elaboração do orçamento. A fim de sanar as eventuais necessidades de retificação da peça orçamentária, o Poder Executivo utiliza-se de alguns mecanismos, como os remanejamentos, transposições e créditos adicionais para promover as alterações orçamentárias. 
 
+As alterações orçamnetárias se dividem em créditos adicionais e outras alterações orçamentárias. 
+
+Os Créditos Adicionais, de acordo com o Art. 40 da Lei Federal 4320/64,que *“Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal”*:
 >
 Art 40. São créditos adicionais, as autorizações de despesa não computadas ou insuficientemente dotadas na Lei de Orçamento.
 
-No artigo 41 da lei supracitada é definido quais são os créditos adicionais, vide Figura 1. 
+O artigo 41 da mesma lei define três modalidades de créditos adicionais
 
 **Figura 1:**Classificação dos Créditos Adicionais 
 
-![creditos_adicionais](img/creditos_adicionais.png)
+![](img/creditos_adicionais.png)
 
 **Fonte:**Lei 43206/64, Elaboração dos Autores
 
-Ainda na mesma lei, no artigo 42 tem-se que:  
+A abertura de créditos suplementares depende da existência de autorização na Lei Orçamentária Anual que determinará o limite em relação à despesa total fixada que poderá ser destinado a esse fim. Desta forma, a partir da prévia autorização em lei, a abertura de crédito suplemetar se efetivará por meio de decreto do Poder Executivo. 
 
 >
 Art. 42. Os créditos suplementares e especiais serão **autorizados por lei e abertos por decreto executivo**.
@@ -34,10 +37,32 @@ Destaca-se a necessidade da lei para abertura dos créditos suplementares e espe
 >
 Art. 9º – Fica o Poder Executivo autorizado a abrir créditos suplementares ao seu orçamento fiscal até o limite de 40% (quarenta por cento) da despesa fixada no art. 2º. 
 
-## Processo 
-1. Confecção de Solicitações Autorizadas
-1. Registro e Nota do SISOR
-1. Registro no SIAFI 
-	1. Conferência dos Valores da Nota com o SIAFI
-1. Confecção do Decreto
-	1. Conferência dos incisos com os Valores do SIAFI
+Vale ressaltar que nos casos em que ultrapassar esse limite disposto na Leo Orçamentáriaa abertura do crédito dependerá de projeto de lei, ou seja, de autorização do Poder Legistlativo. Por outro lado, a abertura de créditos especiais será realizada somente por projeto de lei, assunto que será tratado em tópico oportuno. 
+
+O art. 43 da Lei nº 4320/64 define ainda a origem de recursos que deverá ser utilizada para o atendimento aos créditos suplementares e especiais: 
+
+> 
+Art. 43. A abertura de créditos suplementares  e especiais depende da existência de recursos disponíveis para ocorrer a despesa  e será precedida de exposição justificativa.
+§1º Consideram-se recursos para o fim deste artigo, desde que não comprometidos:
+I - o superávit financeiro apurado em balanço patrimonial do exercício anterior;
+II - os provenientes de excesso de arrecadação;
+III - os resultantes de anulação parcial ou total de dotações orçamentárias ou de crédito adicionais, autorizados em Lei; 
+IV - o produto de operações de crédito autorizadas, em forma que juridicamente possibilite ao poder executivo realizá-las.
+
+As alterações orçamentárias em que são utilizados os recursos resultantes de anulação parcial ou total de dotações orçamentárias ou de créditos adicionais, autorizadoes em Lei são denominados remanejamentos. 
+
+Os créditos extraordinários, por sua vez, deverão sem abertos por decreto do Poder Executico, devendo ser dado conhecimento imediato ao Poder Legislativo. Tais créditos independem de fonte de recursos específica. 
+
+Os créditos adiconais terão vigência adstrita ao exercício financeiro em que foram abertos, salvo algumas exceções previstas do art.45 da Lei 4320/64
+
+>
+Art. 45. Os créditos adicionais terão vigência adstrita ao exercício financeiro em que forem abertos, salvo expressa disposição legal em contrário, quanto aos especiais e extraordinários. 
+
+As Outras Alterações Orçamentárias são aquelas previamente autorizadas em lei (LDO ou LOA), mas que não se encaixam no grupo de créditos adicionais. Em Minas Gerais são atualmente adotadas as seguintes alterações:
+
+1. a de modalidade de aplicação 
+1. nos casos específicos  de extinção, transformação ou transferência, incoroporação ou desmembramento de órgãos ou entidades em que serão transportadas, remanejadas transferidas ou utilizadas, total ou parcialmente, as dotações orçamentárias do órgão ou entidade em questão. 
+
+Tais alterações não irão constar nesse manual.  
+
+

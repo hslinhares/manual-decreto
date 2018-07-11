@@ -1,4 +1,39 @@
 # Registro no SIAFI
 
-EM CONSTRUÇÃO
+Com todos os passos anteriores feitos, o técnico do NGO registra a Minuta do decreto no SIAFI-MG conforme apresentado a seguir.
+
+- Faça o login no SIAFI-MG 
+- Selecione opção (03): Movimentação Orçamentaria
+
+![](img/13.png)
+
+- Selcione opção (01): Alteração Orçamentaria
+
+![](img/14.png)
+
+- Selecione opção (03): Minuta de decreto Orçamentario; Ação (1): Registro
+
+![](img/15.png)
+
+- Tecle **X** em Minuta de Decreto 
+
+![](img/16.png)
+
+- Tecle (01) em Tipo de Crédito
+
+![](img/17.png)
+
+- Selecioe as Solicitações Autorizadas disponíveis na pasta Solicitações Autorizadas. 
+
+![](img/18.png)
+
+- Compara se o Total da Suplementação esta igual a da nota do SISOR, caso esteja igual registre as OC
+
+![](img/19.png)
+
+
+
+
+
+
 

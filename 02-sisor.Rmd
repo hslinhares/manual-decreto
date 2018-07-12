@@ -97,3 +97,20 @@ Algumas vezes esquecemos de colocar solicitações com número do SISOR ou os se
 
 
 ### Salvar e Gerar Nota
+
+Após todos os passos anteriores realizados devemos slavar a nota e gera-la para uso posterior, conforme o passo a passo abaixo: 
+
+- Clique em **Salvar** e um erro será exibido na pagina. 
+
+![](img/19.png)
+
+![](img/20.png)
+
+
+- Clique em **Imprimir** e uma nova pagina ira abrir. Va ao fina da página e clique no disquete. 
+
+![](img/21.png)
+
+
+
+

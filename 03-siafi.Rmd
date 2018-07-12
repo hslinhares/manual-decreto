@@ -32,8 +32,27 @@ Com todos os passos anteriores feitos, o técnico do NGO registra a Minuta do de
 ![](img/19.png)
 
 
+- Tecle *Enter* e preencha a tela que aparece, em seguida tecle *F5* e depois *F5* para confirmar o registro. 
 
 
+## Gerar Anexo para o Decreto 
+
+- Tecle *F3* para retornar a tela. Insira Opção (03), Ação (05).
+
+![](img/27.png)
+
+- Marque um **X** em Minuta em Arquivo p/FTP
+
+![](img/28.png)
+
+
+- Insira o número da Minuta
+
+![](img/29.png)
+
+- Tecle *ENTER* e em seguida *F5*
+
+![](img/30.png)
 
 
 

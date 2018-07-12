@@ -1,3 +1,21 @@
 # Registro no BPMS
 
-EM CONSTRUÇÃO...
+- Entre no site https://ssc.prodemge.gov.br/ssc-idp-web/ no Google Chrome, insira seu login e senha e clique em **ENTRAR**
+
+![](img/23.png)
+
+- Clique em **SUBSECRETARIA DE PLANEJAMENTO, ORÇAMENTO E QUALIDADE DO GASTO**, em seguida clique em **Selecionar**
+
+![](img/24.png)
+
+
+- Cliquem **Processos**, depois em **INICIAR PROCESSO DE ABERTURA DE CRÉDITO SUPLEMETAR**
+
+![](img/25.png)
+
+- Preencha os campos Referências com MINUTA *Nº_DA_MINUTA* e o campo Ementa com MINUTA SIAFI *Nº_DA_MINUTA*; defina Conclusão como **ENVIAR AO SUBSECRETARIO**; 
+
+![](img/26.png)
+
+
+
